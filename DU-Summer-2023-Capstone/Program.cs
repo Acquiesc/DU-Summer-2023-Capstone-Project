@@ -36,6 +36,7 @@ app.UseRouting();
 app.UseAuthentication();
 app.UseAuthorization();
 
+//defines the URL pattern (www.pizzarestaurant.com/Pages/Index/{id}) & controller to use
 app.UseEndpoints(endpoints =>
 {
     endpoints.MapControllerRoute(
