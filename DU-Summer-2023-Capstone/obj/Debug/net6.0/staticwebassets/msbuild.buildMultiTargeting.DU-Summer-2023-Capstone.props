@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DU-Summer-2023-Capstone.props" />
+</Project>
