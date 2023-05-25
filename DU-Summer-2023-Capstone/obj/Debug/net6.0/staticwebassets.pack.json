@@ -9,8 +9,60 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\images\\Chef.png",
+      "PackagePath": "staticwebassets\\images\\Chef.png"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\images\\Hero-Pizza.jpeg",
+      "PackagePath": "staticwebassets\\images\\Hero-Pizza.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\images\\alfredo.jpeg",
+      "PackagePath": "staticwebassets\\images\\alfredo.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\images\\bbq-chicken.jpg",
+      "PackagePath": "staticwebassets\\images\\bbq-chicken.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\images\\buffalo-chicken.jpeg",
+      "PackagePath": "staticwebassets\\images\\buffalo-chicken.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\images\\cheese.jpeg",
+      "PackagePath": "staticwebassets\\images\\cheese.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\images\\meat-mayhem.jpeg",
+      "PackagePath": "staticwebassets\\images\\meat-mayhem.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\images\\menu-banner.jpeg",
+      "PackagePath": "staticwebassets\\images\\menu-banner.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\images\\pepperoni.jpeg",
+      "PackagePath": "staticwebassets\\images\\pepperoni.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\images\\sausage.jpeg",
+      "PackagePath": "staticwebassets\\images\\sausage.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\images\\supreme.jpeg",
+      "PackagePath": "staticwebassets\\images\\supreme.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\images\\taco.webp",
+      "PackagePath": "staticwebassets\\images\\taco.webp"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\images\\veggie.jpeg",
+      "PackagePath": "staticwebassets\\images\\veggie.jpeg"
     },
     {
       "Id": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\js\\site.js",
