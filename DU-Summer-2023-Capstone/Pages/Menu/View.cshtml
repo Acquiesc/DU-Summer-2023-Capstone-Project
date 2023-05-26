@@ -1,0 +1,184 @@
+﻿@page
+@{
+    ViewData["Title"] = "Pizza Pete";
+}
+
+<!--Menu Header-->
+<section id="Menu-Banner" class="container-fluid mb-5" style="background-image: url('/images/Menu-Banner.jpeg'); margin: 0; padding: 0;">
+    <div class="container-fluid d-flex justify-content-center align-items-center h-100 mask" style="background-color: rgba(0,0,0,.6); margin: 0; padding: 0;">
+        <div class="row justify-content-center align-items-center" style="padding: 0; margin: 0;">
+            <div class="col-auto text-center text-white">
+                <h1 class="mt-3">@ViewData["Title"]</h1>
+                <strong class="mt-3">All your favorite pizza from Pizza Pete</strong>
+                <br/>
+                <br />
+                <h1 class="mb-3">Menu</h1>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--Menu Display-->
+<section class="container mt-5">
+    <div id="products-container" class="row align-items-center justify-evenly-below-desktop">
+        <div class="col-auto mb-3">
+            <div class="card" style="width: 18rem; height: 500px;">
+                <img class="card-img-top" width="275" height="200" src="/images/alfredo.jpeg" alt="Creamy alfredo pizza">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Alfredo Pizza</h5>
+                    <p class="card-text text-start">Our signature crust topped with fresh tomato and creamy alfredo sauces</p>
+                    <br />
+                    <strong>$10.00</strong>
+                    <br />
+                    <button class="btn btn-primary mt-5" ahref="/menu">Add to Cart</button>
+                </div>
+            </div>
+        </div>
+        <div class="col-auto mb-3">
+            <div class="card" style="width: 18rem; height: 500px;">
+                <img class="card-img-top" width="275" height="200" src="/images/bbq-chicken.jpg" alt="Barbecue Chicken Pizza">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Barbecue Chicken Pizza</h5>
+                    <p class="card-text text-start">
+                        Our signature crust topped with stringy mozzarella cheese
+                        & chunks of our signature barbecue chicken
+                    </p>
+                    <br />
+                    <strong>$10.00</strong>
+                    <br />
+                    <button class="btn btn-primary mt-5" ahref="/menu">Add to Cart</button>
+                </div>
+            </div>
+        </div>
+        <div class="col-auto mb-3">
+            <div class="card" style="width: 18rem; height: 500px;">
+                <img class="card-img-top" width="275" height="200" src="/images/buffalo-chicken.jpeg" alt="Buffalo Chicken Pizza">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Buffalo Chicken Pizza</h5>
+                    <p class="card-text text-start">
+                        Our signature crust topped with stringy mozzarella cheese
+                        & chunks of our signature buffalo chicken
+                    </p>
+                    <br />
+                    <strong>$10.00</strong>
+                    <br />
+                    <button class="btn btn-primary mt-5" ahref="/menu">Add to Cart</button>
+                </div>
+            </div>
+        </div>
+        <div class="col-auto mb-3">
+            <div class="card" style="width: 18rem; height: 500px;">
+                <img class="card-img-top" width="275" height="200" src="/images/cheese.jpeg" alt="Cheese Pizza">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Cheese Pizza</h5>
+                    <p class="card-text text-start">
+                        Our signature crust topped with creamy tomato sauce stringy mozzarella cheese
+                    </p>
+                    <br />
+                    <strong>$10.00</strong>
+                    <br />
+                    <button class="btn btn-primary mt-5" ahref="/menu">Add to Cart</button>
+                </div>
+            </div>
+        </div>
+        <div class="col-auto mb-3">
+            <div class="card" style="width: 18rem; height: 500px;">
+                <img class="card-img-top" width="275" height="200" src="/images/meat-mayhem.jpeg" alt="Meat Mayhem Pizza">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Meat Mayhem Pizza</h5>
+                    <p class="card-text text-start">
+                        Our signature crust topped with stringy mozzarella cheese
+                        along with sausage, pepperoni, bacon, ham, and chicken
+                    </p>
+                    <br />
+                    <strong>$10.00</strong>
+                    <br />
+                    <button class="btn btn-primary mt-5" ahref="/menu">Add to Cart</button>
+                </div>
+            </div>
+        </div>
+        <div class="col-auto mb-3">
+            <div class="card" style="width: 18rem; height: 500px;">
+                <img class="card-img-top" width="275" height="200" src="/images/pepperoni.jpeg" alt="Pepperoni Pizza">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Pepperoni Pizza</h5>
+                    <p class="card-text text-start">
+                        Our signature crust topped with stringy mozzarella cheese
+                        & pepperoni
+                    </p>
+                    <br />
+                    <strong>$10.00</strong>
+                    <br />
+                    <button class="btn btn-primary mt-5" ahref="/menu">Add to Cart</button>
+                </div>
+            </div>
+        </div>
+        <div class="col-auto mb-3">
+            <div class="card" style="width: 18rem; height: 500px;">
+                <img class="card-img-top" width="275" height="200" src="/images/sausage.jpeg" alt="Sausage Pizza">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Sausage Pizza</h5>
+                    <p class="card-text text-start">
+                        Our signature crust topped with stringy mozzarella cheese
+                        & sausage
+                    </p>
+                    <br />
+                    <strong>$10.00</strong>
+                    <br />
+                    <button class="btn btn-primary mt-5" ahref="/menu">Add to Cart</button>
+                </div>
+            </div>
+        </div>
+        <div class="col-auto mb-3">
+            <div class="card" style="width: 18rem; height: 500px;">
+                <img class="card-img-top" width="275" height="200" src="/images/supreme.jpeg" alt="Supreme Pizza">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Supreme Pizza</h5>
+                    <p class="card-text text-start">
+                        Our signature crust topped with stringy mozzarella cheese
+                        along with green peppers, red onions, mushrooms, pepperoni, and sausage
+                    </p>
+                    <br />
+                    <strong>$10.00</strong>
+                    <br />
+                    <button class="btn btn-primary mt-5" ahref="/menu">Add to Cart</button>
+                </div>
+            </div>
+        </div>
+        <div class="col-auto mb-3">
+            <div class="card" style="width: 18rem; height: 500px;">
+                <img class="card-img-top" width="275" height="200" src="/images/taco.webp" alt="Taco Pizza">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Taco Pizza</h5>
+                    <p class="card-text text-start">
+                        Our signature crust topped with stringy mozzarella cheese
+                        along with burger, lettuce, and tomato
+                    </p>
+                    <br />
+                    <strong>$10.00</strong>
+                    <br />
+                    <button class="btn btn-primary mt-5" ahref="/menu">Add to Cart</button>
+                </div>
+            </div>
+        </div>
+        <div class="col-auto mb-3">
+            <div class="card" style="width: 18rem; height: 500px;">
+                <img class="card-img-top" width="275" height="200" src="/images/veggie.jpeg" alt="Veggie Pizza">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Veggie Pizza</h5>
+                    <p class="card-text text-start">
+                        Our signature crust topped with stringy mozzarella cheese
+                        along with mushrooms, green peppers, and onions
+                    </p>
+                    <br />
+                    <strong>$10.00</strong>
+                    <br />
+                    <button class="btn btn-primary mt-5" ahref="/menu">Add to Cart</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+

@@ -1,0 +1,80 @@
+﻿@page
+@{
+    ViewData["Title"] = "Pizza Pete";
+}
+
+@if(User.Identity.IsAuthenticated)
+{
+    <!--Logged In-->
+    <section class="container d-flex flex-column" style="min-height: calc(100vh - 67px);">
+        <h1 class="my-5 text-center">Your Cart</h1>
+
+        <div class="row d-flex justify-content-center align-items-center mb-3 gap-5">
+            <div class="col-auto justify-content-center align-items-center">
+                <img src="/images/alfredo.jpeg" width="200" height="200" style="margin-left: auto;">
+            </div>
+            <div class="col-auto text-center">
+                <h3>Alfredo Pizza</h3>
+                <p>Price: $10.00</p>
+                <div class="row">
+                    <div class="col-auto">
+                        <!--Will point to controller method that decreases cart quantity column-->
+                        <button class="btn btn-outline-dark">-</button>
+                    </div>
+                    <div class="col-auto d-flex">
+                        <p style="margin: auto;">Quantity: 1</p>
+                    </div>
+                    <div class="col-auto">
+                        <!--Will point to controller method that increases cart quantity column-->
+                        <button class="btn btn-outline-dark">+</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row d-flex justify-content-center align-items-center mb-5 gap-5">
+            <div class="col-auto justify-content-center align-items-center">
+                <img src="/images/alfredo.jpeg" width="200" height="200" style="margin-left: auto;">
+            </div>
+            <div class="col-auto text-center">
+                <h3>Alfredo Pizza</h3>
+                <p>Price: $10.00</p>
+                <div class="row d-flex flex-nowrap">
+                    <div class="col-auto">
+                        <!--Will point to controller method that decreases cart quantity column-->
+                        <button class="btn btn-outline-dark">-</button>
+                    </div>
+                    <div class="col-auto d-flex">
+                        <p style="margin: auto;">Quantity: 1</p>
+                    </div>
+                    <div class="col-auto">
+                        <!--Will point to controller method that increases cart quantity column-->
+                        <button class="btn btn-outline-dark">+</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row p-3 bg-light" style="margin-top: auto;">
+            <div class="col text-center">
+                <p><strong>Subtotal: </strong> $20.00</p>
+                <p><strong>Tax: </strong>$1.20</p>
+                <p><strong>Total: </strong>$21.20</p>
+                <div class="col text-center justify-content-center mt-3">
+                    <a role="button" class="btn btn-primary" asp-controller="Cart" asp-action="Checkout">Checkout</a>
+                </div>
+            </div>
+        </div>
+    </section>
+}
+else
+{
+    <!--Not Logged In-->
+    <section class="container mt-5">
+        <div class="row">
+            <div class="col text-center">
+                <h1>Sorry, you must be logged in to view your cart</h1>
+                <br>
+                <partial name="_LoginPartial" />
+            </div>
+        </div>
+    </section>
+}

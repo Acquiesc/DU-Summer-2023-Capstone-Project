@@ -16,6 +16,21 @@ namespace DU_Summer_2023_Capstone.Controllers
             return View();
         }
 
+        public IActionResult Cart()
+        {
+            return View();
+        }
+
+        public IActionResult Checkout()
+        {
+            return View();
+        }
+        public IActionResult OrderDetails()
+        {
+            return View();
+        }
+
+
         /*
         public IActionResult Checkout()
         {

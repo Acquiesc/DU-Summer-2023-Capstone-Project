@@ -20,6 +20,14 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Pages/Cart/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydFxDaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Pages/Cart/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydFxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -28,8 +36,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Pages/Menu.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVudS5jc2h0bWw=
+[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Pages/Menu/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVudVxWaWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Pages/Shared/_LoginPartial.cshtml]

@@ -16,6 +16,13 @@ builder.Services.AddRazorPages();
 
 var app = builder.Build();
 
+//auto runs pending migrations on local server initialize
+using (var scope = app.Services.CreateScope())
+{
+    var applicationDbContext = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
+    applicationDbContext.Database.Migrate();
+}
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
