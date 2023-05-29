@@ -4,6 +4,187 @@
 }
 
 
-<section class="container p-3">
+<section class="container p-3 mb-5">
     <h1 class="text-center">Checkout</h1>
 </section>
+
+<section class="container">
+    <div class="row d-flex justify-content-evenly">
+        <div class="col-12 col-lg-5 mb-5 bg-light py-5 px-3 d-flex flex-column justify-content-center rounded">
+            <h1 class="text-center">Order Details</h1>
+            <form class="w-75 mx-auto" action="" method="POST">
+                <div class="row my-3">
+                    <label for="first_name">First Name</label>
+                    <input type="text" name="first_name" class="form-control" placeholder="First name..." />
+                </div>
+                <div class="row my-3">
+                    <label for="last_name">Last Name</label>
+                    <input type="text" name="last_name" class="form-control" placeholder="Last name..." />
+                </div>
+                <div class="row my-3">
+                    <label for="email">Email</label>
+                    <input type="email" name="email" class="form-control" placeholder="Email..." />
+                </div>
+                <div class="row my-3">
+                    <label for="phone">Phone</label>
+                    <input type="tel" name="phone" class="form-control" placeholder="Phone..." />
+                </div>
+                <div class="row my-5 d-flex justify-content-evenly">
+                    <label class="form-check-label fw-bold" id="carryout_label" for="carryout_delivery_toggle" style="width: fit-content;">Carryout</label>
+                    <div class="form-switch" style="width: fit-content;">
+                        <input class="form-check-input" type="checkbox" role="switch" name="carryout_delivery_toggle" id="carryout_delivery_toggle" />
+                    </div>
+                    <label class="form-check-label" id="delivery_label" for="carryout_delivery_toggle" style="width: fit-content;">Delivery</label>
+                </div>
+
+                <!--Carryout fields-->
+                <!--Don't believe there's anything specific necessary-->
+
+                <!--Delivery fields-->
+                <div class="d-none" id="delivery_form_fields">
+                    <h3 class="text-center">Delivery Address</h3>
+                    <div class="row my-3">
+                        <label for="street">Street</label>
+                        <input type="text" name="street" class="form-control" placeholder="Street..." />
+                    </div>
+                    <div class="row my-3">
+                        <label for="city">City</label>
+                        <input type="text" name="city" class="form-control" placeholder="City..." />
+                    </div>
+                    <div class="row my-3">
+                        <label for="state">State</label>
+                        <input type="text" name="state" class="form-control" placeholder="State..." />
+                    </div>
+                    <div class="row my-3">
+                        <label for="country">Country</label>
+                        <input type="text" name="country" class="form-control" placeholder="Country..." />
+                    </div>
+                    <div class="row my-3">
+                        <label for="zipcode">Zipcode</label>
+                        <input type="number" name="zipcode" class="form-control" placeholder="Zipcode..." />
+                    </div>
+                </div>
+
+                <div class="row mt-5">
+                    <div class="row my-5 d-flex justify-content-evenly">
+                        <label class="form-check-label fw-bold" id="cash_label" for="payment_toggle" style="width: fit-content;">Cash</label>
+                        <div class="form-switch" style="width: fit-content;">
+                            <input class="form-check-input" type="checkbox" role="switch" name="payment_toggle" id="payment_toggle" />
+                        </div>
+                        <label class="form-check-label" id="card_label" for="payment_toggle" style="width: fit-content;">Card</label>
+                    </div>
+                </div>
+
+                <div id="card_form_fields" class="row my-3 d-none">
+                    <h3 class="text-center">Payment Information</h3>
+                    <div class="row my-3">
+                        <label for="card_number">Card Number</label>
+                        <input type="number" name="card_number" class="form-control" placeholder="Card Number..." />
+                    </div>
+                    <div class="row my-3">
+                        <label for="card_name">Name on Card</label>
+                        <input type="text" name="card_name" class="form-control" placeholder="Name on Card..." />
+                    </div>
+                    <div class="row my-3">
+                        <label for="expiration">MM/YY</label>
+                        <input type="month" name="expiration" class="form-control" />
+                    </div>
+                    <div class="row my-3">
+                        <label for="cvv">CVV</label>
+                        <input type="number" name="cvv" class="form-control" min="100" max="999" placeholder="CVV..." />
+                    </div>
+                    <div class="row my-3">
+                        <label for="zipcode">Zipcode</label>
+                        <input type="number" name="zipcode" class="form-control" placeholder="Zipcode..." />
+                    </div>
+                </div>
+
+                <div class="row text-center">
+                    <div class="col">
+                        <a asp-controller="Cart" asp-action="OrderDetails" class="btn btn-primary">Submit Order</a>
+
+                        <!--Replace with submit button & POST validation route-->
+                        <!--<button type="submit" class="btn btn-primary">Submit Order</button>-->
+                    </div>
+                </div>
+            </form>
+        </div>
+
+        <!--Cart Summary-->
+        <div class="col-12 col-lg-5 mb-5 bg-light py-5 px-3 d-flex flex-column justify-content-center rounded">
+            <h1 class="text-center mb-5">Cart Summary</h1>
+            <div class="d-flex w-75 mx-auto flex-column border-bottom border-dark">
+                <div class="d-flex flex-row w-100 justify-content-between align-items-center" style="height: fit-content;">
+                    <p><strong>Alfredo Pizza</strong></p>
+                    <p>Quantity: 1</p>
+                </div>
+                <p>$10.00</p>
+            </div>
+            <div class="d-flex w-75 mx-auto flex-column border-bottom border-dark mt-3">
+                <div class="d-flex flex-row w-100 justify-content-between align-items-center" style="height: fit-content;">
+                    <p><strong>Alfredo Pizza</strong></p>
+                    <p>Quantity: 1</p>
+                </div>
+                <p>$10.00</p>
+            </div>
+            <div class="w-75 mx-auto mt-3">
+                <div class="d-flex justify-content-between">
+                    <p><strong>Subtotal: </strong></p>
+                    <p>$20.00</p>
+                </div>
+                <div class="d-flex justify-content-between">
+                    <p><strong>Tax: </strong></p>
+                    <p>$1.20</p>
+                </div>
+                <div class="d-flex justify-content-between">
+                    <p><strong>Total: </strong></p>
+                    <p>$21.20</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script>
+    //script that toggles the carryout or delivery form fields
+    const carryoutLbl = document.getElementById("carryout_label");
+    const deliveryLbl = document.getElementById("delivery_label");
+    const toggleBtn = document.getElementById("carryout_delivery_toggle");
+
+    const deliveryFields = document.getElementById("delivery_form_fields");
+
+    toggleBtn.addEventListener('change', function() {
+       if(this.checked) {
+           carryoutLbl.classList.remove('fw-bold');
+           deliveryLbl.classList.add('fw-bold');
+
+            deliveryFields.classList.remove("d-none");
+       } else {
+            carryoutLbl.classList.add('fw-bold');
+            deliveryLbl.classList.remove('fw-bold');
+
+            deliveryFields.classList.add("d-none");
+       }
+    });
+
+    //script that toggles the cash or card form fields
+    const cashLbl = document.getElementById("cash_label");
+    const cardLbl = document.getElementById("card_label");
+    const paymentToggle = document.getElementById("payment_toggle");
+
+    const cardFields = document.getElementById("card_form_fields");
+
+    paymentToggle.addEventListener('change', function () {
+        if (this.checked) {
+            cashLbl.classList.remove('fw-bold');
+            cardLbl.classList.add('fw-bold');
+
+            cardFields.classList.remove("d-none");
+        } else {
+            cashLbl.classList.add('fw-bold');
+            cardLbl.classList.remove('fw-bold');
+
+            cardFields.classList.add("d-none");
+        }
+    });
+</script>
