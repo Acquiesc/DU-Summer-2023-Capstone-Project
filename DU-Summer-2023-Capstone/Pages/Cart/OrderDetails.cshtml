@@ -2,3 +2,72 @@
 @{
     ViewData["Title"] = "Pizza Pete";
 }
+
+<!--This page should be re-build as a dynamic page requesting the $id of the order & pulling order
+    data from DB
+-->
+
+<section class="container p-3 mt-5 mb-3">
+    <h1 class="text-center">Order #1038237</h1>
+</section>
+
+<section class="container p-3">
+    <div class="row bg-light border border-dark rounded p-5">
+        <div class="col d-flex flex-column justify-content-center">
+            <h3 class="text-center fw-bold">Order Status</h3>
+            <progress id="order_progress" class="mx-auto" value="32" max="100" style="width: 250px; height: 50px;"> 32% </progress>
+            <p class="text-center"><strong>Estimated Time to Completion:</strong> 30 minutes</p>
+        </div>
+    </div>
+    <div class="row mt-5 d-flex justify-content-evenly">
+        <div class="col-12 col-lg-5 bg-light border border-dark rounded p-5">
+            <h3 class="text-center fw-bold mb-3">Order Summary</h3>
+            <div class="d-flex w-75 mx-auto flex-column border-bottom border-dark">
+                <div class="d-flex flex-row w-100 justify-content-between align-items-center" style="height: fit-content;">
+                    <p><strong>Alfredo Pizza</strong></p>
+                    <p>Quantity: 1</p>
+                </div>
+                <p>$10.00</p>
+            </div>
+            <div class="d-flex w-75 mx-auto flex-column border-bottom border-dark mt-3">
+                <div class="d-flex flex-row w-100 justify-content-between align-items-center" style="height: fit-content;">
+                    <p><strong>Alfredo Pizza</strong></p>
+                    <p>Quantity: 1</p>
+                </div>
+                <p>$10.00</p>
+            </div>
+            <div class="w-75 mx-auto mt-3">
+                <div class="d-flex justify-content-between">
+                    <p><strong>Subtotal: </strong></p>
+                    <p>$20.00</p>
+                </div>
+                <div class="d-flex justify-content-between">
+                    <p><strong>Tax: </strong></p>
+                    <p>$1.20</p>
+                </div>
+                <div class="d-flex justify-content-between">
+                    <p><strong>Total: </strong></p>
+                    <p>$21.20</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-lg-5 bg-light border border-dark rounded p-5">
+            <h3 class="text-center fw-bold mb-3">Order Details</h3>
+            <p class="mb-3"><strong>Order Type:</strong> Delivery</p>
+
+            <p><strong>Address:</strong> 6191 Kraft Ave SE, Grand Rapids MI 49426</p>
+
+            <!--<p>Order Type: Carryout</p>-->
+
+            <p><strong>Payment Type:</strong> Card</p>
+
+            <p><strong>Number: </strong>**** **** **** 4242</p>
+            <p><strong>Expiration:</strong> 11/28</p>
+            <p><strong>CVV:</strong> 123</p>
+
+            <!--<p>Payment Type: Cash</p>-->
+
+            <p></p>
+        </div>
+    </div>
+</section>

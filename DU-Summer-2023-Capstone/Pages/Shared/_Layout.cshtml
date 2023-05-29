@@ -20,8 +20,8 @@
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow">
             <div class="container">
                 <div>
-                    <img src="/images/Chef.png" width="50" height="50" style="margin-right: 10px;"/>            
-                    <a class="navbar-brand" asp-area="" asp-controller="Pages" asp-action="Index">Pizza Pete</a>
+                    <a class="navbar-brand" asp-area="" asp-controller="Pages" asp-action="Index"><img src="/images/Chef.png" width="50" height="50" style="margin-right: 10px;" /></a>
+                        <a class="navbar-brand" asp-area="" asp-controller="Pages" asp-action="Index">Pizza Pete</a>
                 </div>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
@@ -37,7 +37,7 @@
                         </li>
                     </ul>
                     <div class="d-flex flex-row">
-                        <a class="nav-link text-dark" asp-controller="Cart" asp-action="View" style="margin: auto 0;"><i class="bi bi-cart3" style="font-size: 20px;"></i></a>
+                        <a class="nav-link text-dark d-flex" asp-controller="Cart" asp-action="View" style="margin: auto 0; font-size: 24px;"><i class="bi bi-cart3" style=""></i></a>
                         <partial name="_LoginPartial" />
                     </div>
                 </div>

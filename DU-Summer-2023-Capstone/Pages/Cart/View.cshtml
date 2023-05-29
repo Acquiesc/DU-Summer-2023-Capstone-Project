@@ -2,8 +2,11 @@
 @{
     ViewData["Title"] = "Pizza Pete";
 }
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
 
-@if(User.Identity.IsAuthenticated)
+@if (SignInManager.IsSignedIn(User))
 {
     <!--Logged In-->
     <section class="container d-flex flex-column" style="min-height: calc(100vh - 67px);">
@@ -18,14 +21,14 @@
                 <p>Price: $10.00</p>
                 <div class="row">
                     <div class="col-auto">
-                        <!--Will point to controller method that decreases cart quantity column-->
+                        <!--Will be a POST form pointing to controller method that decreases cart quantity column-->
                         <button class="btn btn-outline-dark">-</button>
                     </div>
                     <div class="col-auto d-flex">
                         <p style="margin: auto;">Quantity: 1</p>
                     </div>
                     <div class="col-auto">
-                        <!--Will point to controller method that increases cart quantity column-->
+                        <!--Will be a POST form pointing to controller method that increases cart quantity column-->
                         <button class="btn btn-outline-dark">+</button>
                     </div>
                 </div>
@@ -40,14 +43,14 @@
                 <p>Price: $10.00</p>
                 <div class="row d-flex flex-nowrap">
                     <div class="col-auto">
-                        <!--Will point to controller method that decreases cart quantity column-->
+                        <!--Will be a POST form pointing to controller method that decreases cart quantity column-->
                         <button class="btn btn-outline-dark">-</button>
                     </div>
                     <div class="col-auto d-flex">
                         <p style="margin: auto;">Quantity: 1</p>
                     </div>
                     <div class="col-auto">
-                        <!--Will point to controller method that increases cart quantity column-->
+                        <!--Will be a POST form pointing to controller method that increases cart quantity column-->
                         <button class="btn btn-outline-dark">+</button>
                     </div>
                 </div>
