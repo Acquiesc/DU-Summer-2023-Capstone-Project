@@ -1,0 +1,107 @@
+﻿@page
+@{
+    ViewData["Title"] = "Order History";
+}
+
+<h1 class="text-center my-3">@ViewData["Title"]</h1>
+<div class="container-fluid">
+    <div class="row mb-5">
+        <div class="col-12">
+            <p class="ms-5 mb-3"><strong>Orders in Progress</strong></p>
+            <hr />
+            <!--If Orders in Progress
+            <div class="w-100 bg-light p-3 pb-0">
+                <table class="table text-center">
+                    <thead>
+                        <tr>
+                            <th scope="col">Order No.</th>
+                            <th scope="col">Order Date</th>
+                            <th scope="col">Name</th>
+                            <th scope="col">Total</th>
+                            <th scope="col">View Details</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">#10028747</th>
+                            <td>5/30/23 <br /> 12:07pm</td>
+                            <td>Adam Lee</td>
+                            <td>$21.20</td>
+                            <td><a asp-controller="Cart" asp-action="OrderDetails"><i class="bi bi-search"></i></a></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">#10028747</th>
+                            <td>5/30/23 <br /> 12:07pm</td>
+                            <td>Adam Lee</td>
+                            <td>$21.20</td>
+                            <td><a asp-controller="Cart" asp-action="OrderDetails"><i class="bi bi-search"></i></a></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">#10028747</th>
+                            <td>5/30/23 <br /> 12:07pm</td>
+                            <td>Adam Lee</td>
+                            <td>$21.20</td>
+                            <td><a asp-controller="Cart" asp-action="OrderDetails"><i class="bi bi-search"></i></a></td>
+                        </tr>
+                    </tbody>
+            </table>-->
+            </div>
+            <!--If No Orders In Progress-->
+            <div class="text-center w-100 p-3 bg-light">
+                <p><strong>No Orders Currently in Progress</strong></p>
+            </div>
+            
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12 w-100">
+            <p class="ms-5 mb-3"><strong>Completed Orders</strong></p>
+            <hr />
+            <!--If Orders Completed-->
+            <div class="w-100 bg-light p-3 pb-0">
+                <table class="table text-center">
+                    <thead>
+                        <tr>
+                            <th scope="col">Order No.</th>
+                            <th scope="col">Order Date</th>
+                            <th scope="col">Name</th>
+                            <th scope="col">Total</th>
+                            <th scope="col">View Details</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">#10028747</th>
+                            <td>5/30/23 <br /> 12:07pm</td>
+                            <td>Adam Lee</td>
+                            <td>$21.20</td>
+                            <!--These links will need to be modified to deliver DB data-->
+                            <td><a asp-controller="Cart" asp-action="OrderDetails"><i class="bi bi-search"></i></a></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">#10028747</th>
+                            <td>5/30/23 <br /> 12:07pm</td>
+                            <td>Adam Lee</td>
+                            <td>$21.20</td>
+                            <!--These links will need to be modified to deliver DB data-->
+                            <td><a asp-controller="Cart" asp-action="OrderDetails"><i class="bi bi-search"></i></a></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">#10028747</th>
+                            <td>5/30/23 <br /> 12:07pm</td>
+                            <td>Adam Lee</td>
+                            <td>$21.20</td>
+                            <!--These links will need to be modified to deliver DB data-->
+                            <td><a asp-controller="Cart" asp-action="OrderDetails"><i class="bi bi-search"></i></a></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <!--If No Orders Completed
+            <div class="text-center w-100 bg-light">
+                <p><strong>No Completed Orders Found<strong></p>
+            </div>
+            -->
+        </div>
+    </div>
+</div>
