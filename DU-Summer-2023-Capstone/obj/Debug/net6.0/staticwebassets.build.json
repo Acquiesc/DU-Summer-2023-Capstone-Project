@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JkBkSurBS459LVdcMvi5qqPiKzfq4J5aknlCrM6YycI=",
+  "Hash": "SuKK5xYIu3Te7R8YQ6cE4RgCv6OP1B22l5j92k48zYk=",
   "Source": "DU-Summer-2023-Capstone",
   "BasePath": "_content/DU-Summer-2023-Capstone",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "DU-Summer-2023-Capstone\\wwwroot",
       "Source": "DU-Summer-2023-Capstone",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\css\\site.css",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\css\\site.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\css\\site.css"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\favicon.ico",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\favicon.ico",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\favicon.ico"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\js\\site.js",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\js\\site.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\js\\site.js"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -99,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -116,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -133,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -150,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -167,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -184,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -201,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -218,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -235,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -252,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -269,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -286,13 +286,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -303,13 +303,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -320,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -354,13 +354,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -371,13 +371,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -388,13 +388,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -405,13 +405,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -422,13 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -439,13 +439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -456,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -473,13 +473,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -490,13 +490,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -507,13 +507,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -524,13 +524,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -541,13 +541,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -558,13 +558,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -575,13 +575,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -592,13 +592,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -609,13 +609,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -626,13 +626,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -643,13 +643,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -677,13 +677,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -694,13 +694,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -711,13 +711,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -728,13 +728,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -745,13 +745,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -762,13 +762,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -779,13 +779,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -796,13 +796,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -813,13 +813,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -830,13 +830,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -847,13 +847,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -864,13 +864,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -881,13 +881,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -898,13 +898,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -915,13 +915,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -932,13 +932,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -949,13 +949,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -966,13 +966,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -983,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1000,13 +1000,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1017,13 +1017,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1034,13 +1034,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\scart\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DU-Summer-2023-Capstone.styles.css",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DU-Summer-2023-Capstone.styles.css",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "DU-Summer-2023-Capstone.styles.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DU-Summer-2023-Capstone.styles.css"
+      "OriginalItemSpec": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DU-Summer-2023-Capstone.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DU-Summer-2023-Capstone.bundle.scp.css",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DU-Summer-2023-Capstone.bundle.scp.css",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "DU-Summer-2023-Capstone.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DU-Summer-2023-Capstone.bundle.scp.css"
+      "OriginalItemSpec": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DU-Summer-2023-Capstone.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\css\\site.css",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\css\\site.css",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1088,10 +1088,27 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\images\\alfredo.jpeg",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\favicon.ico",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "BasePath": "_content/DU-Summer-2023-Capstone",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\images\\alfredo.jpeg",
+      "SourceId": "DU-Summer-2023-Capstone",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "images/alfredo.jpeg",
       "AssetKind": "All",
@@ -1105,10 +1122,27 @@
       "OriginalItemSpec": "wwwroot\\images\\alfredo.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\images\\bbq-chicken.jpg",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\images\\alfredo_638233612282724513.jpeg",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "BasePath": "_content/DU-Summer-2023-Capstone",
+      "RelativePath": "images/alfredo_638233612282724513.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\alfredo_638233612282724513.jpeg"
+    },
+    {
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\images\\bbq-chicken.jpg",
+      "SourceId": "DU-Summer-2023-Capstone",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "images/bbq-chicken.jpg",
       "AssetKind": "All",
@@ -1122,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bbq-chicken.jpg"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\images\\buffalo-chicken.jpeg",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\images\\buffalo-chicken.jpeg",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "images/buffalo-chicken.jpeg",
       "AssetKind": "All",
@@ -1139,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\images\\buffalo-chicken.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\images\\cheese.jpeg",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\images\\cheese.jpeg",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "images/cheese.jpeg",
       "AssetKind": "All",
@@ -1156,10 +1190,44 @@
       "OriginalItemSpec": "wwwroot\\images\\cheese.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\images\\Chef.png",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\images\\cheesepizza.jpg",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "BasePath": "_content/DU-Summer-2023-Capstone",
+      "RelativePath": "images/cheesepizza.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cheesepizza.jpg"
+    },
+    {
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\images\\cheesepizza_638233591689567023.jpg",
+      "SourceId": "DU-Summer-2023-Capstone",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "BasePath": "_content/DU-Summer-2023-Capstone",
+      "RelativePath": "images/cheesepizza_638233591689567023.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cheesepizza_638233591689567023.jpg"
+    },
+    {
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\images\\Chef.png",
+      "SourceId": "DU-Summer-2023-Capstone",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "images/Chef.png",
       "AssetKind": "All",
@@ -1173,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Chef.png"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\images\\favicon.ico",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\images\\favicon.ico",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "images/favicon.ico",
       "AssetKind": "All",
@@ -1190,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\images\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\images\\Hero-Pizza.jpeg",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\images\\Hero-Pizza.jpeg",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "images/Hero-Pizza.jpeg",
       "AssetKind": "All",
@@ -1207,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Hero-Pizza.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\images\\meat-mayhem.jpeg",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\images\\meat-mayhem.jpeg",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "images/meat-mayhem.jpeg",
       "AssetKind": "All",
@@ -1224,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\images\\meat-mayhem.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\images\\menu-banner.jpeg",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\images\\menu-banner.jpeg",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "images/menu-banner.jpeg",
       "AssetKind": "All",
@@ -1241,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\menu-banner.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\images\\pepperoni.jpeg",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\images\\pepperoni.jpeg",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "images/pepperoni.jpeg",
       "AssetKind": "All",
@@ -1258,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pepperoni.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\images\\sausage.jpeg",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\images\\sausage.jpeg",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "images/sausage.jpeg",
       "AssetKind": "All",
@@ -1275,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sausage.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\images\\supreme.jpeg",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\images\\supreme.jpeg",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "images/supreme.jpeg",
       "AssetKind": "All",
@@ -1292,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\images\\supreme.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\images\\taco.webp",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\images\\taco.webp",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "images/taco.webp",
       "AssetKind": "All",
@@ -1309,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\images\\taco.webp"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\images\\veggie.jpeg",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\images\\veggie.jpeg",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "images/veggie.jpeg",
       "AssetKind": "All",
@@ -1326,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\images\\veggie.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\js\\site.js",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\js\\site.js",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1343,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1360,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1377,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1394,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1411,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1428,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1445,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1462,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1479,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1496,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1513,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1530,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1547,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1564,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1581,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1598,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1615,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1632,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1649,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1666,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1683,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1700,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1717,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1734,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1751,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1768,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1785,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1802,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1819,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1836,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1853,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1870,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1887,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1904,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1921,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1938,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1955,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1972,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1989,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2006,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2023,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2040,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2057,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2074,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2091,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2108,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2125,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2142,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2159,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2176,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2193,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2210,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2227,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2244,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2261,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2278,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2295,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "DU-Summer-2023-Capstone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Adam\\source\\repos\\DU-Summer-2023-Capstone\\DU-Summer-2023-Capstone\\wwwroot\\",
+      "ContentRoot": "F:\\Users\\scart\\Documents\\College\\Capstone FinalV\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone-Project\\DU-Summer-2023-Capstone\\wwwroot\\",
       "BasePath": "_content/DU-Summer-2023-Capstone",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

@@ -1,14 +1,24 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using DU_Summer_2023_Capstone.Data.Interfaces;
+using DU_Summer_2023_Capstone.PagesModel;
 using Microsoft.AspNetCore.Mvc;
-
 namespace DU_Summer_2023_Capstone.Controllers
 {
     public class MenuController : Controller
     {
-        // GET: MenuController
-        public ActionResult View()
+        private readonly IPizzaRepository _pizzaRepository;
+        public MenuController(IPizzaRepository pizzaRepository)
         {
-            return View();
+            _pizzaRepository = pizzaRepository;
+        }
+
+        // GET: MenuController
+        public ActionResult Index()
+        {
+            var homeViewModel = new MenuModel
+            {
+                Pizzas = _pizzaRepository.Pizzas
+            };
+            return View(homeViewModel);
         }
 
         // GET: MenuController/Details/5

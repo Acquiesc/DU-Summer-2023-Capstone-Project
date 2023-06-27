@@ -1,0 +1,27 @@
+﻿@model CartItem
+<div class="row d-flex justify-content-center align-items-center mb-3 gap-5">
+    <div class="col-auto justify-content-center align-items-center">
+        <img src="@Model.Pizza.ImageUrl" width="200" height="200" style="margin-left: auto;">
+    </div>
+    <div class="col-auto text-center justify-content-center align-items-center" style="height: 300px; width: 220px">
+        <h3>@Model.Pizza.Name</h3>
+        <p>Price: @Model.Pizza.Price.ToString("c")</p>
+        <div class="row">
+            <div class="col-auto">
+                <!--Will be a POST form pointing to controller method that decreases cart quantity column-->
+                <a class="btn btn-outline-dark" asp-controller="Cart" asp-action="RemoveFromCart" asp-route-pizzaId="@Model.Pizza.PizzaId">-</a>
+            </div>
+            <div class="col-auto d-flex">
+                <p style="margin: auto;">Quantity: @Model.Amount</p>
+            </div>
+            <div class="col-auto">
+                <!--Will be a POST form pointing to controller method that increases cart quantity column-->
+                <a class="btn btn-outline-dark" asp-controller="Cart" asp-action="IncreaseAmmount" asp-route-pizzaId="@Model.Pizza.PizzaId">+</a>
+            </div>
+        </div>
+
+        <div>
+            <a class="btn btn-danger remove" asp-controller="Cart" asp-action="RemoveFromCart" asp-route-pizzaId="@Model.Pizza.PizzaId">Remove</a>
+        </div>
+    </div>
+</div>

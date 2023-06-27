@@ -1,0 +1,23 @@
+﻿@model CartViewModel
+
+@using Microsoft.AspNetCore.Identity
+@using Microsoft.AspNetCore.Identity.EntityFrameworkCore
+@inject SignInManager<IdentityUser> SignInManager
+
+
+@if (SignInManager.IsSignedIn(User))
+{
+
+    <a class="nav-link text-dark d-flex" asp-controller="Cart" style="margin: auto 0; font-size: 24px;">
+        <span><i class="bi bi-cart3" style=""></i></span>
+        @if (Model.Cart.CartItems.Count > 0){
+            <span id="cart-status" class="text-danger">
+                @Model.Cart.CartItems.Count
+            </span>
+        }
+        
+    </a>
+
+}
+
+    

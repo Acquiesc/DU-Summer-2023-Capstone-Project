@@ -1,0 +1,74 @@
+﻿@model Pizza
+
+@{
+    ViewBag.Title = "Update Pizza";
+}
+
+<div class="container mt-4">
+
+    <h2>Update Pizza</h2>
+    <form asp-action="Update" method="post" enctype="multipart/form-data">
+        <input type="hidden" asp-for="PizzaId" />
+        <div class="form-group">
+            <label asp-for="Name" class="control-label"></label>
+            <input asp-for="Name" class="form-control" required/>
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="ShortDescription" class="control-label"></label>
+            <input asp-for="ShortDescription" class="form-control" required />
+            <span asp-validation-for="ShortDescription" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="LongDescription" class="control-label"></label>
+            <textarea asp-for="LongDescription" class="form-control"></textarea>
+            <span asp-validation-for="LongDescription" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Price" class="control-label"></label>
+            <input asp-for="Price" class="form-control" required/>
+            <span asp-validation-for="Price" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="InStock" class="control-label"></label>
+            <div>
+                <label>
+                    <input type="radio" asp-for="InStock" value="true" checked />
+                    True
+                </label>
+                <label>
+                    <input type="radio" asp-for="InStock" value="false" />
+                    False
+                </label>
+            </div>
+            <span asp-validation-for="InStock" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="WaitingTime" class="control-label"></label>
+            <input asp-for="WaitingTime" class="form-control" required />
+            <span asp-validation-for="WaitingTime" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ImageUrl" class="control-label"></label>
+            <input asp-for="ImageUrl" class="form-control" disabled />
+            <span asp-validation-for="ImageUrl" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label for="UploadedImage">Image</label>
+            <input type="file" name="UploadedImage" class="form-control" />
+        </div>
+        <div class="form-group mt-3" >
+            <input type="submit" value="Update Pizza" class="btn btn-primary" />
+        </div>
+    </form>
+    <div class="mt-2">
+        <a asp-action="Index">Back to List</a>
+    </div>
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

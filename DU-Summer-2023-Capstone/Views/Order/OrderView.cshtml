@@ -1,0 +1,115 @@
+﻿@model Order
+
+
+<section class="container p-3 mt-1 mb-3">
+    <h1 class="text-center">Order #@Model.OrderId.ToString("D5")</h1>
+</section>
+
+<section class="container">
+
+    <div class="row bg-light border border-dark rounded p-5 mb-4">
+        <div class="col d-flex flex-column justify-content-center">
+            <h3 class="text-center fw-bold">Order Status</h3>
+            @if (@Model.CalculateTimeRemaining() < 1  || Model.Completed || Model.Cancelled)
+            {
+                <progress id="order_progress" class="mx-auto" value="100" max="100" style="width: 250px; height: 50px;"> 32% </progress>
+                <p class="text-center"><strong>@(Model.Cancelled ? "Cancelled" : "Completed")</strong></p>
+            }
+            else
+            {
+                <progress id="order_progress" class="mx-auto" value="@Model.CalculateCompletedPercentage()" max="100" style="width: 250px; height: 50px;"> 32% </progress>
+                <p class="text-center"><strong>Estimated Time to Completion:</strong> @Model.CalculateTimeRemaining() minutes</p>
+            }
+
+        </div>
+    </div>
+
+    <div class="row mt-5 d-flex justify-content-evenly">
+        <div class="col-12 col-lg-5 bg-light border border-dark rounded p-5">
+            <div class="row">
+                <div class="col-md-8">
+                    <table class="table table-bordered table-hover">
+                        <thead>
+                            <tr>
+                                <th>Image</th>
+                                <th>Pizza</th>
+                                <th>Amount</th>
+                                <th>Price</th>
+                                <th>Total</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                                    @foreach (var orderDetail in Model.OrderLines)
+                                    {
+                                        <tr>
+                                            <td>
+                                                    <img src="@orderDetail.Pizza.ImageUrl" alt="@orderDetail.Pizza.Name" class="img-fluid pizza-image" style="width: 40px;
+                                                height: auto;
+                                                margin-right: 10px;" />
+                                            </td>
+                                            <td>@orderDetail.Pizza.Name</td>
+                                            <td>@orderDetail.Amount</td>
+                                            <td>@orderDetail.Price</td>
+                                            <td>@(orderDetail.Amount * orderDetail.Price)</td>
+                                        </tr>
+                                    }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-6 col-lg-5 bg-light border border-dark rounded p-5">
+            <h3 class="text-center fw-bold mb-3">Order Details</h3>
+
+            @if (!Model.CarryoutDeliveryToggle)
+            {
+                    <p class="mb-3"><strong>Order Type:</strong> Carryout</p>
+            }
+            else
+            {
+                    <p class="mb-3"><strong>Order Type:</strong> Delivery</p
+
+
+            <p><strong>Address:</strong> @Model.FormatAddress()</p>
+            }
+
+
+            @if (Model.PaymentToggle)
+            {
+                    <p><strong>Payment Type:</strong> Card</p>
+
+                    <p><strong>Number: </strong>**** **** **** 4242</p>
+                    <p><strong>Expiration:</strong> @Model.Expiration</p>
+                    <p><strong>CVV:</strong> @Model.CVV</p>
+            }
+            else
+            {
+                    <p><strong>Payment Type:</strong> Cash</p>
+            }
+
+        </div>
+
+    </div>
+
+    <div class="row mt-4 mb-4">
+        <div class="col-md-8">
+            <div class="d-flex justify-content-end">
+
+                @if(Model.Cancelled || Model.Completed){
+                    
+                    @if(Model.Cancelled) {
+                        <h1 class="text-danger" >Cancelled</h1>
+                    }else {
+                        <h1 class="text-success">Completed</h1>
+                    }
+                }else{
+                    <a asp-action="CompleteOrder" asp-route-orderId="@Model.OrderId" class="btn btn-info mr-2">Mark as Completed</a>
+                    <a asp-action="CancelOrder" asp-route-orderId="@Model.OrderId" class="btn btn-danger">Cancel Order</a>
+
+                }
+               
+            </div>
+        </div>
+    </div>
+</section>

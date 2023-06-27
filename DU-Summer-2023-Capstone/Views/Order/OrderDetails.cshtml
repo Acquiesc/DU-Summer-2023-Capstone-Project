@@ -1,0 +1,116 @@
+﻿@model OrderDetailsModel
+@{
+    ViewData["Title"] = "Pizza Pete";
+}
+
+<!--This page should be re-build as a dynamic page requesting the $id of the order & pulling order
+    data from DB
+-->
+
+@if (@ViewBag.CheckoutCompleteMessage != null){
+    <section class="container p-3 mt-5 mb-3">
+        <h1 class="text-center">@ViewBag.CheckoutCompleteMessage</h1>
+    </section>
+}
+
+
+
+<section class="container p-3 mt-5 mb-3">
+    <h1 class="text-center">Order #@Model.Order.OrderId.ToString("D5")</h1>
+</section>
+
+<section class="container p-3">
+    <div class="row bg-light border border-dark rounded p-5">
+        <div class="col d-flex flex-column justify-content-center">
+            <h3 class="text-center fw-bold">Order Status</h3>
+            @if (@Model.Order.CalculateTimeRemaining() < 1 || Model.Order.Completed || Model.Order.Cancelled)
+            {
+                <progress id="order_progress" class="mx-auto" value="100" max="100" style="width: 250px; height: 50px;"> 32% </progress>
+                <p class="text-center"><strong>@(Model.Order.Cancelled ? "Cancelled" : "Completed")</strong></p>
+            }
+            else
+            {
+                <progress id="order_progress" class="mx-auto" value="@Model.Order.CalculateCompletedPercentage()" max="100" style="width: 250px; height: 50px;"> 32% </progress>
+                <p class="text-center"><strong>Estimated Time to Completion:</strong> @Model.Order.CalculateTimeRemaining() minutes</p>
+            }
+            
+        </div>
+    </div>
+    <div class="row mt-5 d-flex justify-content-evenly">
+        <div class="col-12 col-lg-5 bg-light border border-dark rounded p-5">
+            
+            <h3 class="text-center fw-bold mb-3">Order Summary</h3>
+
+            @foreach (var order in Model.Order.OrderLines)
+            {
+                <div class="d-flex w-75 mx-auto flex-column border-bottom border-dark">
+                    <div class="d-flex flex-row w-100 justify-content-between align-items-center" style="height: fit-content;">
+                        <p><strong>@order.Pizza.Name</strong></p>
+                        <p>@order.Amount x @order.Pizza.Price.ToString("c") </p>
+                    </div>
+                    <p>@order.GetTotal().ToString("c")</p>
+                </div>   
+            }
+
+        
+            <div class="w-75 mx-auto mt-3">
+                <div class="d-flex justify-content-between">
+                    <p><strong>Subtotal: </strong></p>
+                    <p>@Model.Order.GetTotal().ToString("c");</p>
+                </div>
+                <div class="d-flex justify-content-between">
+                    <p><strong>Tax: </strong></p>
+                    <p>@Model.GetTax().ToString("c")</p>
+                </div>
+                <div class="d-flex justify-content-between">
+                    <p><strong>Total: </strong></p>
+                    <p>@Model.GetSubTotal().ToString("c")</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-lg-5 bg-light border border-dark rounded p-5">
+            <h3 class="text-center fw-bold mb-3">Order Details</h3>
+
+            @if (!Model.Order.CarryoutDeliveryToggle)
+            {
+                <p class="mb-3"><strong>Order Type:</strong> Carryout</p>
+            }else{
+                <p class="mb-3"><strong>Order Type:</strong> Delivery</p
+                <p><strong>Address:</strong> @Model.Order.FormatAddress()</p>
+            }
+
+            
+            @if(Model.Order.PaymentToggle){
+                <p><strong>Payment Type:</strong> Card</p>
+
+                <p><strong>Number: </strong>@Model.Order.FormartAccNo()</p>
+                <p><strong>Expiration:</strong> 
+                    @Model.Order.Expiration;
+                </p>
+                <p><strong>CVV:</strong> @Model.Order.CVV</p>
+            }else{
+                <p><strong>Payment Type:</strong> Cash</p>
+            }
+
+            
+
+            <!--<p>Payment Type: Cash</p>-->
+
+            <p></p>
+        </div>
+    </div>
+
+    <div class="row mt-4 mb-4">
+        <div class="col-md-8">
+            <div class="d-flex justify-content-end">
+
+                @if (Model.Order.CalculateTimeRemaining() > 0 && (!Model.Order.Cancelled && !Model.Order.Completed) )
+                {
+                     <a asp-action="CancelOrder" asp-route-orderId="@Model.Order.OrderId" class="btn btn-danger">Cancel Order</a>
+
+                }
+
+            </div>
+        </div>
+    </div>
+</section>

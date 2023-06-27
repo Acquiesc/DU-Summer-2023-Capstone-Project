@@ -1,83 +1,99 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using DU_Summer_2023_Capstone.Data.Interfaces;
+using DU_Summer_2023_Capstone.Data.Models;
+using DU_Summer_2023_Capstone.PagesModel;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DU_Summer_2023_Capstone.Controllers
 {
     public class CartController : Controller
     {
-        // GET: CartController
-        public ActionResult View()
+        private readonly IPizzaRepository _pizzaRepository;
+        private readonly Cart _cart;
+
+        public CartController(IPizzaRepository pizzaRepository, Cart cart)
         {
-            return View();
+            _pizzaRepository = pizzaRepository;
+            _cart = cart;
         }
 
-        public ActionResult Checkout()
+        [Authorize]
+        public ViewResult Index()
         {
-            return View();
-        }
+            var items = _cart.GetCartItems();
+            _cart.CartItems = items;
 
-        //this will need to be replaced with checkout POST validation
-        //& a re-direct once orders model has been established
-        public ActionResult OrderDetails()
-        {
-            return View();
-        }
-
-
-        //default methods for reference
-
-        // GET: CartController/Details/5
-        public ActionResult Details(int id)
-        {
-            return View();
-        }
-
-        // GET: CartController/Create
-        public ActionResult Create()
-        {
-            return View();
-        }
-
-        // GET: CartController/Edit/5
-        public ActionResult Edit(int id)
-        {
-            return View();
-        }
-
-        // POST: CartController/Edit/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
-        {
-            try
+            var cartViewModel = new CartViewModel
             {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+                Cart = _cart,
+                CartTotal = _cart.GetCartTotal()
+            };
+            return View(cartViewModel);
         }
 
-        // GET: CartController/Delete/5
-        public ActionResult Delete(int id)
+        [Authorize]
+        public ViewResult Checkout()
+        {
+            var items = _cart.GetCartItems();
+            var cartViewModel = new CartViewModel
+            {
+                Cart = _cart,
+                CartTotal = _cart.GetCartTotal()
+            };
+            if (items != null && items.Count > 0)
+            {
+                return View(cartViewModel);
+            }
+            else
+            {
+                return View("Index", cartViewModel);
+
+            }
+
+        }
+
+        public ViewResult OrderDetails()
         {
             return View();
         }
 
-        // POST: CartController/Delete/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
+        [Authorize]
+        public RedirectToActionResult AddToCart(int pizzaId)
         {
-            try
+            var selectedPizza = _pizzaRepository.Pizzas.FirstOrDefault(p => p.PizzaId == pizzaId);
+            if (selectedPizza != null)
             {
-                return RedirectToAction(nameof(Index));
+                _cart.AddToCart(selectedPizza, 1);
             }
-            catch
-            {
-                return View();
-            }
+            return RedirectToAction("Index", "Menu");
         }
+
+        [Authorize]
+        public RedirectToActionResult IncreaseAmmount(int pizzaId)
+        {
+            var selectedPizza = _pizzaRepository.Pizzas.FirstOrDefault(p => p.PizzaId == pizzaId);
+            if (selectedPizza != null)
+            {
+                _cart.AddToCart(selectedPizza, 1);
+            }
+            return RedirectToAction("Index");
+        }
+        public RedirectToActionResult RemoveFromCart(int pizzaId)
+        {
+            Console.WriteLine(pizzaId);
+
+
+            var selectedPizza = _pizzaRepository.Pizzas.FirstOrDefault(p => p.PizzaId == pizzaId);
+
+            if (selectedPizza != null)
+            {
+                _cart.RemoveFromCart(selectedPizza);
+            }
+            return RedirectToAction("Index");
+        }
+
+
+
+
     }
 }

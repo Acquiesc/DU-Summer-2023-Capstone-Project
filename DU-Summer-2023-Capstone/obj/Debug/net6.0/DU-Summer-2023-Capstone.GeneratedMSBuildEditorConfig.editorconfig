@@ -9,133 +9,173 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DU_Summer_2023_Capstone
 build_property.RootNamespace = DU_Summer_2023_Capstone
-build_property.ProjectDir = C:\Users\Adam\source\repos\DU-Summer-2023-Capstone\DU-Summer-2023-Capstone\
+build_property.ProjectDir = F:\Users\scart\Documents\College\Capstone FinalV\DU-Summer-2023-Capstone-Project\DU-Summer-2023-Capstone-Project\DU-Summer-2023-Capstone\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Adam\source\repos\DU-Summer-2023-Capstone\DU-Summer-2023-Capstone
+build_property.MSBuildProjectDirectory = F:\Users\scart\Documents\College\Capstone FinalV\DU-Summer-2023-Capstone-Project\DU-Summer-2023-Capstone-Project\DU-Summer-2023-Capstone
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWxDaGFuZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/Login.cshtml]
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/Logout.cshtml]
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGVsZXRlUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/Manage/Email.cshtml]
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/Manage/Email.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/Manage/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/Register.cshtml]
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Areas/Identity/Pages/_ViewImports.cshtml]
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Areas/Identity/Pages/_ViewStart.cshtml]
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Pages/Admin/Dashboard.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRGFzaGJvYXJkLmNzaHRtbA==
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Views/Admin/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Pages/Cart/Checkout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydFxDaGVja291dC5jc2h0bWw=
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Pages/Cart/OrderDetails.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydFxPcmRlckRldGFpbHMuY3NodG1s
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Views/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Pages/Cart/View.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydFxWaWV3LmNzaHRtbA==
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Views/Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Views/Menu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Pages/Menu/View.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVudVxWaWV3LmNzaHRtbA==
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Views/Order/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ2hlY2tvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Pages/Profile/OrderHistory.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsZVxPcmRlckhpc3RvcnkuY3NodG1s
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Pages/Shared/_LoginPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Views/Order/OrderDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcT3JkZXJEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Pages/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Views/Order/OrderHistory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcT3JkZXJIaXN0b3J5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Views/Order/OrderView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcT3JkZXJWaWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Views/Pizza/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Adam/source/repos/DU-Summer-2023-Capstone/DU-Summer-2023-Capstone/Pages/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-5miete2ec0
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Views/Pizza/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Views/Pizza/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Views/Shared/CartItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENhcnRJdGVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Views/Shared/Components/CartSummary/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FydFN1bW1hcnlcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Views/Shared/PizzaSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBpenphU3VtbWFyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Views/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Users/scart/Documents/College/Capstone FinalV/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone-Project/DU-Summer-2023-Capstone/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-gz5z5xuhou

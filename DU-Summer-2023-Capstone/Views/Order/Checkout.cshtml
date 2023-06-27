@@ -1,0 +1,213 @@
+﻿@model CartViewModel
+@{
+    ViewData["Title"] = "Check Out";
+}
+
+<!--This page should be re-build as a dynamic page requesting the $id of the order & pulling cart
+    data from DB
+-->
+
+<section class="container p-3 mb-5">
+    <h1 class="text-center">Checkout</h1>
+</section>
+
+<section class="container">
+    <div class="row d-flex justify-content-evenly">
+        <div class="col-12 col-lg-5 mb-5 bg-light py-5 px-3 d-flex flex-column justify-content-center rounded">
+            <h1 class="text-center">Order Details</h1>
+            <form class="w-75 mx-auto" asp-action="Checkout" method="post">
+                <div class="row my-3">
+                    <label for="FirstName">First Name</label>
+                    <input type="text" name="FirstName" class="form-control" placeholder="First name..." required />
+                </div>
+                <div class="row my-3">
+                    <label for="LastName">Last Name</label>
+                    <input type="text" name="LastName" class="form-control" placeholder="Last name..." required />
+                </div>
+                <div class="row my-3">
+                    <label for="Email">Email</label>
+                    <input type="email" name="Email" class="form-control" placeholder="Email..." required />
+                </div>
+                <div class="row my-3">
+                    <label for="Phone">Phone</label>
+                    <input type="tel" name="Phone" class="form-control" placeholder="Phone..." required />
+                </div>
+                <div class="row my-5 d-flex justify-content-evenly">
+                    <label class="form-check-label fw-bold" id="carryout_label" for="CarryoutDeliveryToggle" style="width: fit-content;">Carryout</label>
+                    
+                    <div class="form-switch" style="width: fit-content;">
+                        <input type="checkbox" class="form-check-input" name="IsCarry" id="CarryoutDeliveryToggle" />
+                    </div>
+
+                
+                    <label class="form-check-label" id="delivery_label" for="CarryoutDeliveryToggle" style="width: fit-content;">Delivery</label>
+                </div>
+
+                <div id="delivery_form_fields" class="d-none">
+                    <h3 class="text-center">Delivery Address</h3>
+                    <div class="row my-3">
+                        <label for="Street">Street</label>
+                        <input type="text" name="Street" class="form-control" placeholder="Street..." data-requiredif-otherproperty="IsCarry" />
+                    </div>
+                    <div class="row my-3">
+                        <label for="City">City</label>
+                        <input type="text" name="City" class="form-control" placeholder="City..." data-requiredif-otherproperty="IsCarry"/>
+                    </div>
+                    <div class="row my-3">
+                        <label for="State">State</label>
+                        <input type="text" name="State" class="form-control" placeholder="State..." data-requiredif-otherproperty="IsCarry" />
+                    </div>
+                    <div class="row my-3">
+                        <label for="Country">Country</label>
+                        <input type="text" name="Country" class="form-control" placeholder="Country..." data-requiredif-otherproperty="IsCarry" />
+                    </div>
+                    <div class="row my-3">
+                        <label for="Zipcode">Zipcode</label>
+                        <input type="number" name="Zipcode" class="form-control" placeholder="Zipcode..." data-requiredif-otherproperty="IsCarry" />
+                    </div>
+                </div>
+
+                <div class="row mt-5">
+                    <div class="row my-5 d-flex justify-content-evenly">
+                        <label class="form-check-label fw-bold" id="cash_label" for="PaymentToggle" style="width: fit-content;">Cash</label>
+                        
+                        <div class="form-switch" style="width: fit-content;">
+                            <input type="checkbox"  class="form-check-input" name="IsCash" id="PaymentToggle" />
+                        </div>
+
+                        <label class="form-check-label" id="card_label" for="PaymentToggle" style="width: fit-content;">Card</label>
+                    </div>
+                </div>
+
+                <div id="card_form_fields" class="row my-3 d-none">
+                    <h3 class="text-center">Payment Information</h3>
+                    <div class="row my-3">
+                        <label for="CardNumber">Card Number</label>
+                        <input type="number" name="CardNumber" class="form-control" placeholder="Card Number..." data-requiredif-otherproperty="PaymentToggle"/>
+                    </div>
+                    <div class="row my-3">
+                        <label for="CardName">Name on Card</label>
+                        <input type="text" name="CardName" class="form-control" placeholder="Name on Card..." data-requiredif-otherproperty="PaymentToggle" />
+                    </div>
+                    <div class="row my-3">
+                        <label for="Expiration">MM/YY</label>
+                        <input type="month" name="Expiration" class="form-control" data-requiredif-otherproperty="PaymentToggle" />
+                    </div>
+                    <div class="row my-3">
+                        <label for="CVV">CVV</label>
+                        <input type="number" name="CVV" class="form-control" min="100" max="999" placeholder="CVV..." data-requiredif-otherproperty="PaymentToggle" />
+                    </div>
+                    <div class="row my-3">
+                        <label for="Zipcode">Zipcode</label>
+                        <input type="number" name="Zipcode" class="form-control" placeholder="Zipcode..." data-requiredif-otherproperty="PaymentToggle" />
+                    </div>
+                </div>
+
+                <div class="row text-center">
+                    <div class="col">
+                        <button type="submit" class="btn btn-primary">Submit Order</button>
+                    </div>
+                </div>
+            </form>
+
+        </div>
+
+        <!--Cart Summary-->
+        <div class="col-12 col-lg-5 mb-5 bg-light py-5 px-3 d-flex flex-column justify-content-center rounded">
+            <h1 class="text-center mb-5">Cart Summary</h1>
+
+            @foreach (var item in Model.Cart.CartItems)
+            {
+                <div class="d-flex w-75 mx-auto flex-column border-bottom border-dark mt-3">
+                    <div class="d-flex flex-row w-100 justify-content-between align-items-center" style="height: fit-content;">
+                        <p><strong>@item.Pizza.Name</strong></p>
+                        <p>@item.Amount x  @item.Pizza.Price.ToString("c")</p>
+                    </div>
+                    <p>@item.GetSubTotal().ToString("c")</p>
+                </div>
+
+            }
+
+            <div class="w-75 mx-auto mt-3">
+                <div class="d-flex justify-content-between">
+                    <p><strong>Subtotal: </strong></p>
+                    <p>@Model.CartTotal.ToString("c")</p>
+                </div>
+                <div class="d-flex justify-content-between">
+                    <p><strong>Tax: </strong></p>
+                    <p>@Model.GetTax().ToString("c")</p>
+                </div>
+                <div class="d-flex justify-content-between">
+                    <p><strong>Total: </strong></p>
+                    <p>@Model.GetSubTotal().ToString("c")</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script>
+    //script that toggles the carryout or delivery form fields
+    const carryoutLbl = document.getElementById("carryout_label");
+    const deliveryLbl = document.getElementById("delivery_label");
+    const toggleBtn = document.getElementById("CarryoutDeliveryToggle");
+
+    const deliveryFields = document.getElementById("delivery_form_fields");
+
+    toggleBtn.addEventListener('change', function() {
+       if(this.checked) {
+           carryoutLbl.classList.remove('fw-bold');
+           deliveryLbl.classList.add('fw-bold');
+           
+           deliveryFields.classList.remove("d-none");
+           addRequiredToFields("delivery_form_fields");
+
+       } else {
+            carryoutLbl.classList.add('fw-bold');
+            deliveryLbl.classList.remove('fw-bold');
+            removeRequiredFromFields("delivery_form_fields");
+            deliveryFields.classList.add("d-none");
+       }
+    });
+
+    //script that toggles the cash or card form fields
+    const cashLbl = document.getElementById("cash_label");
+    const cardLbl = document.getElementById("card_label");
+    const paymentToggle = document.getElementById("PaymentToggle");
+
+    const cardFields = document.getElementById("card_form_fields");
+
+    paymentToggle.addEventListener('change', function () {
+        if (this.checked) {
+            cashLbl.classList.remove('fw-bold');
+            cardLbl.classList.add('fw-bold');
+            addRequiredToFields("card_form_fields");
+            cardFields.classList.remove("d-none");
+        } else {
+            cashLbl.classList.add('fw-bold');
+            cardLbl.classList.remove('fw-bold');
+
+            cardFields.classList.add("d-none");
+            removeRequiredFromFields("card_form_fields");
+        }
+    });
+
+    function addRequiredToFields(divId) {
+      var div = document.getElementById(divId);
+      var inputFields = div.getElementsByTagName('input');
+
+      for (var i = 0; i < inputFields.length; i++) {
+        inputFields[i].setAttribute('required', 'required');
+      }
+    }
+
+
+    function removeRequiredFromFields(divId) {
+      var div = document.getElementById(divId);
+      var inputFields = div.getElementsByTagName('input');
+
+      for (var i = 0; i < inputFields.length; i++) {
+        inputFields[i].removeAttribute('required');
+      }
+    }
+</script>

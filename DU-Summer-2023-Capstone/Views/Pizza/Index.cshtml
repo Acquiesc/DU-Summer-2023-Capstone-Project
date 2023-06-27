@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Pizza>
+
+@{
+    ViewBag.Title = "Manage Pizza";
+}
+
+<div class="container mt-5">
+    <h2>Manage Pizzas</h2>
+    <a class="btn btn-primary mb-3" asp-action="Create">Add New Pizza</a>
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Pizza Id</th>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var pizza in Model)
+            {
+                    <tr>
+                        <td>@pizza.PizzaId</td>
+                        <td>@pizza.Name</td>
+                        <td>@pizza.Price</td>
+                        <td>
+                            <a asp-action="Update" asp-route-id="@pizza.PizzaId" class="btn btn-info mr-2">Update</a>
+                            @if (pizza.InStock)
+                            {
+                                <a asp-action="DisAble" asp-route-id="@pizza.PizzaId" class="btn btn-danger">Disable</a> 
+                            }else{
+                                <a asp-action="Enable" asp-route-id="@pizza.PizzaId" class="btn btn-success">Enable</a>
+                            }
+                            
+                        </td>
+                    </tr>
+            }
+        </tbody>
+    </table>
+</div>
